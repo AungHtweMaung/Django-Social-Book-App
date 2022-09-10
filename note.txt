@@ -16,3 +16,5 @@ models ထဲမှာရှိတဲ့ object တွေအတွက် unique 
 UUID will generate unique id for particular django objects.
 Universally unique identifiers are a good alternative to AutoField for primary_key. 
 The database will not generate the UUID for you, so it is recommended to use default.
+
+Hello
